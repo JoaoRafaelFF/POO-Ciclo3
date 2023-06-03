@@ -1,0 +1,17 @@
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\bin\Debug\net6.0-windows\CalculadoraIMCForms.exe
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\bin\Debug\net6.0-windows\CalculadoraIMCForms.deps.json
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\bin\Debug\net6.0-windows\CalculadoraIMCForms.runtimeconfig.json
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\bin\Debug\net6.0-windows\CalculadoraIMCForms.dll
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\bin\Debug\net6.0-windows\CalculadoraIMCForms.pdb
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.csproj.AssemblyReference.cache
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.lbl_Tutulo1.resources
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.csproj.GenerateResource.cache
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.AssemblyInfoInputs.cache
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.AssemblyInfo.cs
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.csproj.CoreCompileInputs.cache
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.dll
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\refint\CalculadoraIMCForms.dll
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.pdb
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\CalculadoraIMCForms.genruntimeconfig.cache
+C:\Users\Aero Engine\Source\Repos2\Course\CalculadoraIMCForms\CalculadoraIMCForms\obj\Debug\net6.0-windows\ref\CalculadoraIMCForms.dll
