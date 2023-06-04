@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aero Engine\\Source\\Repos2\\Course\\CalculadoraIMCForms\\CalculadoraIMCForms\\CalculadoraIMCForms.csproj",
+      "projectUniqueName": "C:\\Users\\Aero Engine\\Documents\\GitHub\\POO-Ciclo3\\CalculadoraIMCForms\\CalculadoraIMCForms\\CalculadoraIMCForms.csproj",
       "projectName": "CalculadoraIMCForms",
-      "projectPath": "C:\\Users\\Aero Engine\\Source\\Repos2\\Course\\CalculadoraIMCForms\\CalculadoraIMCForms\\CalculadoraIMCForms.csproj",
+      "projectPath": "C:\\Users\\Aero Engine\\Documents\\GitHub\\POO-Ciclo3\\CalculadoraIMCForms\\CalculadoraIMCForms\\CalculadoraIMCForms.csproj",
       "packagesPath": "C:\\Users\\Aero Engine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aero Engine\\Source\\Repos2\\Course\\CalculadoraIMCForms\\CalculadoraIMCForms\\obj\\",
+      "outputPath": "C:\\Users\\Aero Engine\\Documents\\GitHub\\POO-Ciclo3\\CalculadoraIMCForms\\CalculadoraIMCForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -49,7 +49,7 @@
             // 
             // text_Altura
             // 
-            text_Altura.Location = new Point(41, 190);
+            text_Altura.Location = new Point(31, 190);
             text_Altura.Margin = new Padding(5, 6, 5, 6);
             text_Altura.Name = "text_Altura";
             text_Altura.Size = new Size(152, 35);
@@ -69,12 +69,12 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(14, 154);
+            label2.Location = new Point(31, 154);
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
-            label2.Size = new Size(204, 30);
+            label2.Size = new Size(157, 30);
             label2.TabIndex = 3;
-            label2.Text = "Altura: (Centimetros)";
+            label2.Text = "Altura: (Metros)";
             // 
             // label3
             // 
